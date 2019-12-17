@@ -1,0 +1,17 @@
+enemies
+        {
+        {
+        (10) (10)
+        }
+        axe
+}
+
+items
+        {
+    5 5 'axe'
+}
+
+helps
+        {
+    3 3 'Hello'
+}
